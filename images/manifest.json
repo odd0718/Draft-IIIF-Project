@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://odd0718.github.io/Draft-IIIF-Project/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in odd0718/Draft-IIIF-Project project"
+        ]
+    },
+    "items": []
+}
